@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         "rabbit-red": "#f12d8f",
+        "rabbit-black": "#031a1c",
       }
     },
   },
